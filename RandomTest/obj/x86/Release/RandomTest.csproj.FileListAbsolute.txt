@@ -1,0 +1,7 @@
+C:\Documents and Settings\Will\my documents\visual studio 2010\Projects\Random.org\RandomTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Will\my documents\visual studio 2010\Projects\Random.org\RandomTest\bin\Release\RandomTest.exe
+C:\Documents and Settings\Will\my documents\visual studio 2010\Projects\Random.org\RandomTest\bin\Release\RandomTest.pdb
+C:\Documents and Settings\Will\my documents\visual studio 2010\Projects\Random.org\RandomTest\bin\Release\Random.org.dll
+C:\Documents and Settings\Will\my documents\visual studio 2010\Projects\Random.org\RandomTest\bin\Release\Random.org.pdb
+C:\Documents and Settings\Will\my documents\visual studio 2010\Projects\Random.org\RandomTest\obj\x86\Release\RandomTest.exe
+C:\Documents and Settings\Will\my documents\visual studio 2010\Projects\Random.org\RandomTest\obj\x86\Release\RandomTest.pdb
